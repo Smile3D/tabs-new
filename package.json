@@ -1,0 +1,18 @@
+{
+  "name": "new-tab",
+  "version": "1.0.0",
+  "description": "Plugin tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tabs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitgub.com/Smile3D/tabs-new.git"
+  },
+  "author": "SA",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
